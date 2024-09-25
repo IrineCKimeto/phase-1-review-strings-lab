@@ -5,9 +5,9 @@
     "passes": 7,
     "pending": 0,
     "failures": 3,
-    "start": "2024-09-23T17:23:45.648Z",
-    "end": "2024-09-23T17:23:45.912Z",
-    "duration": 264
+    "start": "2024-09-25T04:59:05.165Z",
+    "end": "2024-09-25T04:59:05.349Z",
+    "duration": 184
   },
   "tests": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "contains \"Welcome to Flatbook, \"",
       "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -72,7 +72,7 @@
     {
       "title": "contains \"Welcome, \"",
       "fullTitle": "index.js shortGreeting contains \"Welcome, \"",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -146,7 +146,7 @@
     {
       "title": "contains \"Welcome to Flatbook, \"",
       "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -174,7 +174,7 @@
     {
       "title": "contains \"Welcome, \"",
       "fullTitle": "index.js shortGreeting contains \"Welcome, \"",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
